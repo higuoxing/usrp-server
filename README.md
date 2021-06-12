@@ -1,4 +1,4 @@
-# usrp-server
+# usrp-server [![build-usrp-server](https://github.com/higuoxing/usrp-server/actions/workflows/cmake.yml/badge.svg)](https://github.com/higuoxing/usrp-server/actions/workflows/cmake.yml)
 Control the USRP2 device via ZeroMQ server
 
 ## Build
